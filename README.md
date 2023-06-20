@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ventesh studing at J.P.Dawar institute.
-- 👀 I just deployed my [portfolio](ventesh.github.io](https://ventesh.github.io/)
+- 👀 I just deployed my [portfolio](https://ventesh.github.io/)
 - 🌱 I’m currently learning development with swift and frontend framwork ReactJS.
 <!-- - 📫 How to reach me -->
 
